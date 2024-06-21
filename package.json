@@ -1,0 +1,28 @@
+{
+  "name": "candidate-testing",
+  "version": "1.0.0",
+  "description": "intro to prof web dev assignment 1",
+  "main": "scrabble-scorer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaunchCodeEducation/Candidate-Testing-Autograded.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LaunchCodeEducation/Candidate-Testing-Autograded/issues"
+  },
+  "homepage": "https://github.com/LaunchCodeEducation/Candidate-Testing-Autograded#readme"
+}
